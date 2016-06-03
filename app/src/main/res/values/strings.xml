@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PROYECTO POKEMON</string>
+    <string name="title_activity_pokemonlogin">POKEMONLOGIN</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
